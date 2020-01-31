@@ -2,6 +2,7 @@
 
 function myprog() {
 	# adding comment
+	# adding second comment
 	cd /home/ubuntu/ip
 	curl https://ipinfo.io/ip > ip.txt
 	git add -A
