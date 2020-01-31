@@ -3,6 +3,7 @@
 function myprog() {
 	# adding comment
 	# adding second comment
+	# added third comment pkls work
 	cd /home/ubuntu/ip
 	curl https://ipinfo.io/ip > ip.txt
 	git add -A
